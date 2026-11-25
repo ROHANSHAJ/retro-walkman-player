@@ -48,6 +48,22 @@ A vintage-styled desktop music player built with Python and PyQt5. Features a ca
 
 ---
 
+## 📸 Screenshots
+
+| Player Deck | Library | Albums |
+|-------------|---------|--------|
+| ![](screenshots/01_player_deck.png) | ![](screenshots/02_library.png) | ![](screenshots/03_albums.png) |
+
+| Playlists | Lyrics | Equalizer |
+|-----------|--------|-----------|
+| ![](screenshots/04_playlists.png) | ![](screenshots/05_lyrics.png) | ![](screenshots/06_equalizer.png) |
+
+| Settings |
+|----------|
+| ![](screenshots/07_settings.png) |
+
+---
+
 ## 🛠️ Installation
 
 ### Prerequisites
