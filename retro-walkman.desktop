@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Retro Walkman
+Comment=Vintage Walkman Cassette Player with 7-Segment Display, Universal Cover Art & Pointer Organizer
+Exec=/home/rohan/.local/bin/retro-walkman %U
+Icon=/home/rohan/.gemini/antigravity/scratch/retro-walkman-player/retro_walkman.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Player;
+MimeType=audio/mpeg;audio/x-wav;audio/flac;audio/ogg;audio/mp4;audio/aac;audio/opus;
+StartupNotify=true
